@@ -1,4 +1,5 @@
 /**
+   #Sborlucci contract, SnowgeCoin fork.
    #This is the contract for SnowgeCoin. Following in the footsteps of Doge, Hoge, and SafeMoon, but floofier.
    #SnowgeCoin's contract is a fork of SafeMoon's, which is a fork of Bee's.
    #V2 of Snowge's contract makes two more changes.
